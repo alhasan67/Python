@@ -145,17 +145,3 @@ Run the code in the body of the loop until the value of x is no longer less than
   while x < 10:
       x += 1
     ```
-
-
-
-
-***
-
-```
-  if x > 5:
-    print("{} is greater than five".format(x))
-  elif x < 0:
-    print("{} is negative".format(x))
-  else:
-    print("{} is between zero and five".format(x))
-```
