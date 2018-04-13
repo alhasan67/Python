@@ -144,4 +144,3 @@ Run the code in the body of the loop until the value of x is no longer less than
 ```
   while x < 10:
       x += 1
-    ```
