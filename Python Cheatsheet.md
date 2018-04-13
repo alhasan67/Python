@@ -86,7 +86,7 @@ Referenced by Dataquest
 
 ***
 ## Modules and Functions
-###### The body of a function is defined through indentation
+#### The body of a function is defined through indentation
 
 | Option | Description |
 | ------ | ----------- |
@@ -115,7 +115,7 @@ Referenced by Dataquest
 
 ***
 ## Statements and Loops
-###### The body of if statements and loops are defined through indentation
+#### The body of if statements and loops are defined through indentation
 
 
 Test the value of the variable x and run the code body based on the value
